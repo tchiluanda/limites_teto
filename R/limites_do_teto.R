@@ -4,12 +4,13 @@ library(janitor)
 library(dplyr)
 library(tidyr)
 library(stringr)
+library(readr)
 
 
 
 
 
-processa_tabela<- function(.data){
+processa_tabela<- function(.data, data_atualizacao){
 
   colunas<- .data[1,]
 
@@ -19,13 +20,16 @@ processa_tabela<- function(.data){
 
   .data<- janitor::clean_names(.data)
 
+  #ajusta a última linha
+  .data[NROW(.data),2:NCOL(.data)]<-.data[NROW(.data),1:NCOL(.data)-1]
+
   .data<-
     .data %>%
     pivot_longer(cols = -(1:2), names_to = "referencia", values_to = "valor") %>%
     mutate(valor = str_replace_all(valor,"[.]",""),
            valor = str_replace_all(valor,",","."),
            valor = as.numeric(valor),
-           data_processamento = data_atualizacao)
+           data_atualizacao = data_atualizacao)
 
   .data
 }
@@ -47,11 +51,11 @@ processa_teto<- function(){
 
   limites_atualizados<-
     as_tibble(tabela_teto[[1]]) %>%
-    processa_tabela()
+    processa_tabela(data_atualizacao)
 
   limites_efetivos<-
     as_tibble(tabela_teto[[2]]) %>%
-    processa_tabela()
+    processa_tabela(data_atualizacao)
 
   list(limites_atualizados = limites_atualizados, limites_efetivos= limites_efetivos)
 
@@ -61,11 +65,11 @@ limites_teto<- processa_teto()
 
 
 limites_teto$limites_atualizados%>%
-  write_csv("limites_teto_atualizados.csv")
+  write_csv("data/limites_teto_atualizados.csv")
 
 
 limites_teto$limites_efetivos %>%
-  write_csv("limites_teto_efetivos.csv")
+  write_csv("data/limites_teto_efetivos.csv")
 
 
 
