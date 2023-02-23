@@ -1,134 +1,153 @@
-sigla,discriminacao,referencia,valor,data_atualizacao
-EXE,I. Poder Executivo,base_2016,1169293.5,2022-08-18T08:12:33.652793
-EXE,I. Poder Executivo,limite_2017,1253482.6,2022-08-18T08:12:33.652793
-EXE,I. Poder Executivo,limite_2018,1290460.4,2022-08-18T08:12:33.652793
-EXE,I. Poder Executivo,limite_2019,1338852.6,2022-08-18T08:12:33.652793
-EXE,I. Poder Executivo,limite_2020,1396557.2,2022-08-18T08:12:33.652793
-EXE,I. Poder Executivo,limite_2021,1459681.5,2022-08-18T08:12:33.652793
-EXE,I. Poder Executivo,limite_2022,1608277.1,2022-08-18T08:12:33.652793
-,II. Poder Legislativo,base_2016,10549.7,2022-08-18T08:12:33.652793
-,II. Poder Legislativo,limite_2017,11309.3,2022-08-18T08:12:33.652793
-,II. Poder Legislativo,limite_2018,11642.9,2022-08-18T08:12:33.652793
-,II. Poder Legislativo,limite_2019,12079.5,2022-08-18T08:12:33.652793
-,II. Poder Legislativo,limite_2020,12600.1,2022-08-18T08:12:33.652793
-,II. Poder Legislativo,limite_2021,13169.7,2022-08-18T08:12:33.652793
-,II. Poder Legislativo,limite_2022,14510.3,2022-08-18T08:12:33.652793
-CD,Câmara dos Deputados,base_2016,5067.2,2022-08-18T08:12:33.652793
-CD,Câmara dos Deputados,limite_2017,5432.1,2022-08-18T08:12:33.652793
-CD,Câmara dos Deputados,limite_2018,5592.3,2022-08-18T08:12:33.652793
-CD,Câmara dos Deputados,limite_2019,5802,2022-08-18T08:12:33.652793
-CD,Câmara dos Deputados,limite_2020,6052.1,2022-08-18T08:12:33.652793
-CD,Câmara dos Deputados,limite_2021,6325.7,2022-08-18T08:12:33.652793
-CD,Câmara dos Deputados,limite_2022,6969.6,2022-08-18T08:12:33.652793
-SF,Senado Federal,base_2016,3729.9,2022-08-18T08:12:33.652793
-SF,Senado Federal,limite_2017,3998.5,2022-08-18T08:12:33.652793
-SF,Senado Federal,limite_2018,4116.4,2022-08-18T08:12:33.652793
-SF,Senado Federal,limite_2019,4270.8,2022-08-18T08:12:33.652793
-SF,Senado Federal,limite_2020,4454.9,2022-08-18T08:12:33.652793
-SF,Senado Federal,limite_2021,4656.2,2022-08-18T08:12:33.652793
-SF,Senado Federal,limite_2022,5130.2,2022-08-18T08:12:33.652793
-TCU,Tribunal de Contas da União,base_2016,1752.5,2022-08-18T08:12:33.652793
-TCU,Tribunal de Contas da União,limite_2017,1878.7,2022-08-18T08:12:33.652793
-TCU,Tribunal de Contas da União,limite_2018,1934.1,2022-08-18T08:12:33.652793
-TCU,Tribunal de Contas da União,limite_2019,2006.7,2022-08-18T08:12:33.652793
-TCU,Tribunal de Contas da União,limite_2020,2093.2,2022-08-18T08:12:33.652793
-TCU,Tribunal de Contas da União,limite_2021,2187.8,2022-08-18T08:12:33.652793
-TCU,Tribunal de Contas da União,limite_2022,2410.5,2022-08-18T08:12:33.652793
-,III. Poder Judiciário,base_2016,36314,2022-08-18T08:12:33.652793
-,III. Poder Judiciário,limite_2017,38928.6,2022-08-18T08:12:33.652793
-,III. Poder Judiciário,limite_2018,40077,2022-08-18T08:12:33.652793
-,III. Poder Judiciário,limite_2019,41579.9,2022-08-18T08:12:33.652793
-,III. Poder Judiciário,limite_2020,43372,2022-08-18T08:12:33.652793
-,III. Poder Judiciário,limite_2021,45332.4,2022-08-18T08:12:33.652793
-,III. Poder Judiciário,limite_2022,49947.2,2022-08-18T08:12:33.652793
-STF,Supremo Tribunal Federal,base_2016,542,2022-08-18T08:12:33.652793
-STF,Supremo Tribunal Federal,limite_2017,581,2022-08-18T08:12:33.652793
-STF,Supremo Tribunal Federal,limite_2018,598.1,2022-08-18T08:12:33.652793
-STF,Supremo Tribunal Federal,limite_2019,620.6,2022-08-18T08:12:33.652793
-STF,Supremo Tribunal Federal,limite_2020,647.3,2022-08-18T08:12:33.652793
-STF,Supremo Tribunal Federal,limite_2021,676.6,2022-08-18T08:12:33.652793
-STF,Supremo Tribunal Federal,limite_2022,745.4,2022-08-18T08:12:33.652793
-STJ,Superior Tribunal de Justiça,base_2016,1273.9,2022-08-18T08:12:33.652793
-STJ,Superior Tribunal de Justiça,limite_2017,1365.6,2022-08-18T08:12:33.652793
-STJ,Superior Tribunal de Justiça,limite_2018,1405.9,2022-08-18T08:12:33.652793
-STJ,Superior Tribunal de Justiça,limite_2019,1458.6,2022-08-18T08:12:33.652793
-STJ,Superior Tribunal de Justiça,limite_2020,1521.5,2022-08-18T08:12:33.652793
-STJ,Superior Tribunal de Justiça,limite_2021,1590.3,2022-08-18T08:12:33.652793
-STJ,Superior Tribunal de Justiça,limite_2022,1752.1,2022-08-18T08:12:33.652793
-JF,Justiça Federal,base_2016,9397.9,2022-08-18T08:12:33.652793
-JF,Justiça Federal,limite_2017,10074.5,2022-08-18T08:12:33.652793
-JF,Justiça Federal,limite_2018,10371.7,2022-08-18T08:12:33.652793
-JF,Justiça Federal,limite_2019,10760.6,2022-08-18T08:12:33.652793
-JF,Justiça Federal,limite_2020,11224.4,2022-08-18T08:12:33.652793
-JF,Justiça Federal,limite_2021,11731.8,2022-08-18T08:12:33.652793
-JF,Justiça Federal,limite_2022,12926.1,2022-08-18T08:12:33.652793
-JM,Justiça Militar da União,base_2016,457.9,2022-08-18T08:12:33.652793
-JM,Justiça Militar da União,limite_2017,490.9,2022-08-18T08:12:33.652793
-JM,Justiça Militar da União,limite_2018,505.3,2022-08-18T08:12:33.652793
-JM,Justiça Militar da União,limite_2019,524.3,2022-08-18T08:12:33.652793
-JM,Justiça Militar da União,limite_2020,546.9,2022-08-18T08:12:33.652793
-JM,Justiça Militar da União,limite_2021,571.6,2022-08-18T08:12:33.652793
-JM,Justiça Militar da União,limite_2022,629.8,2022-08-18T08:12:33.652793
-JE,Justiça Eleitoral,base_2016,6192.7,2022-08-18T08:12:33.652793
-JE,Justiça Eleitoral,limite_2017,6638.6,2022-08-18T08:12:33.652793
-JE,Justiça Eleitoral,limite_2018,6834.4,2022-08-18T08:12:33.652793
-JE,Justiça Eleitoral,limite_2019,7090.7,2022-08-18T08:12:33.652793
-JE,Justiça Eleitoral,limite_2020,7396.3,2022-08-18T08:12:33.652793
-JE,Justiça Eleitoral,limite_2021,7730.6,2022-08-18T08:12:33.652793
-JE,Justiça Eleitoral,limite_2022,8517.6,2022-08-18T08:12:33.652793
-JT,Justiça do Trabalho,base_2016,16020.8,2022-08-18T08:12:33.652793
-JT,Justiça do Trabalho,limite_2017,17174.3,2022-08-18T08:12:33.652793
-JT,Justiça do Trabalho,limite_2018,17681,2022-08-18T08:12:33.652793
-JT,Justiça do Trabalho,limite_2019,18344,2022-08-18T08:12:33.652793
-JT,Justiça do Trabalho,limite_2020,19134.6,2022-08-18T08:12:33.652793
-JT,Justiça do Trabalho,limite_2021,19999.5,2022-08-18T08:12:33.652793
-JT,Justiça do Trabalho,limite_2022,22035.5,2022-08-18T08:12:33.652793
-JDFT,Justiça do Distrito Federal e dos Territórios,base_2016,2263.3,2022-08-18T08:12:33.652793
-JDFT,Justiça do Distrito Federal e dos Territórios,limite_2017,2426.3,2022-08-18T08:12:33.652793
-JDFT,Justiça do Distrito Federal e dos Territórios,limite_2018,2497.8,2022-08-18T08:12:33.652793
-JDFT,Justiça do Distrito Federal e dos Territórios,limite_2019,2591.5,2022-08-18T08:12:33.652793
-JDFT,Justiça do Distrito Federal e dos Territórios,limite_2020,2703.2,2022-08-18T08:12:33.652793
-JDFT,Justiça do Distrito Federal e dos Territórios,limite_2021,2825.4,2022-08-18T08:12:33.652793
-JDFT,Justiça do Distrito Federal e dos Territórios,limite_2022,3113,2022-08-18T08:12:33.652793
-CNJ,Conselho Nacional de Justiça,base_2016,165.5,2022-08-18T08:12:33.652793
-CNJ,Conselho Nacional de Justiça,limite_2017,177.4,2022-08-18T08:12:33.652793
-CNJ,Conselho Nacional de Justiça,limite_2018,182.7,2022-08-18T08:12:33.652793
-CNJ,Conselho Nacional de Justiça,limite_2019,189.5,2022-08-18T08:12:33.652793
-CNJ,Conselho Nacional de Justiça,limite_2020,197.7,2022-08-18T08:12:33.652793
-CNJ,Conselho Nacional de Justiça,limite_2021,206.6,2022-08-18T08:12:33.652793
-CNJ,Conselho Nacional de Justiça,limite_2022,227.7,2022-08-18T08:12:33.652793
-DPU,IV. Defensoria Pública da União,base_2016,459.7,2022-08-18T08:12:33.652793
-DPU,IV. Defensoria Pública da União,limite_2017,492.8,2022-08-18T08:12:33.652793
-DPU,IV. Defensoria Pública da União,limite_2018,507.4,2022-08-18T08:12:33.652793
-DPU,IV. Defensoria Pública da União,limite_2019,526.4,2022-08-18T08:12:33.652793
-DPU,IV. Defensoria Pública da União,limite_2020,549.1,2022-08-18T08:12:33.652793
-DPU,IV. Defensoria Pública da União,limite_2021,573.9,2022-08-18T08:12:33.652793
-DPU,IV. Defensoria Pública da União,limite_2022,632.3,2022-08-18T08:12:33.652793
-,V. Ministério Público da União,base_2016,5544.3,2022-08-18T08:12:33.652793
-,V. Ministério Público da União,limite_2017,5943.5,2022-08-18T08:12:33.652793
-,V. Ministério Público da União,limite_2018,6118.8,2022-08-18T08:12:33.652793
-,V. Ministério Público da União,limite_2019,6348.3,2022-08-18T08:12:33.652793
-,V. Ministério Público da União,limite_2020,6621.9,2022-08-18T08:12:33.652793
-,V. Ministério Público da União,limite_2021,6921.2,2022-08-18T08:12:33.652793
-,V. Ministério Público da União,limite_2022,7625.8,2022-08-18T08:12:33.652793
-MPU,Ministério Público da União,base_2016,5474,2022-08-18T08:12:33.652793
-MPU,Ministério Público da União,limite_2017,5868.1,2022-08-18T08:12:33.652793
-MPU,Ministério Público da União,limite_2018,6041.2,2022-08-18T08:12:33.652793
-MPU,Ministério Público da União,limite_2019,6267.8,2022-08-18T08:12:33.652793
-MPU,Ministério Público da União,limite_2020,6537.9,2022-08-18T08:12:33.652793
-MPU,Ministério Público da União,limite_2021,6833.4,2022-08-18T08:12:33.652793
-MPU,Ministério Público da União,limite_2022,7529.1,2022-08-18T08:12:33.652793
-CNMP,Conselho Nacional do Ministério Público,base_2016,70.3,2022-08-18T08:12:33.652793
-CNMP,Conselho Nacional do Ministério Público,limite_2017,75.4,2022-08-18T08:12:33.652793
-CNMP,Conselho Nacional do Ministério Público,limite_2018,77.6,2022-08-18T08:12:33.652793
-CNMP,Conselho Nacional do Ministério Público,limite_2019,80.5,2022-08-18T08:12:33.652793
-CNMP,Conselho Nacional do Ministério Público,limite_2020,84,2022-08-18T08:12:33.652793
-CNMP,Conselho Nacional do Ministério Público,limite_2021,87.8,2022-08-18T08:12:33.652793
-CNMP,Conselho Nacional do Ministério Público,limite_2022,96.7,2022-08-18T08:12:33.652793
-,VI. TOTAL,base_2016,1222161.2,2022-08-18T08:12:33.652793
-,VI. TOTAL,limite_2017,1310156.8,2022-08-18T08:12:33.652793
-,VI. TOTAL,limite_2018,1348806.4,2022-08-18T08:12:33.652793
-,VI. TOTAL,limite_2019,1399386.7,2022-08-18T08:12:33.652793
-,VI. TOTAL,limite_2020,1459700.2,2022-08-18T08:12:33.652793
-,VI. TOTAL,limite_2021,1525678.7,2022-08-18T08:12:33.652793
-,VI. TOTAL,limite_2022,1680992.8,2022-08-18T08:12:33.652793
+x,discriminacao,referencia,valor,data_atualizacao
+,I. Poder Executivo,base_2016,1169441.6,2023-01-15T07:56:40.544527
+,I. Poder Executivo,limite_2017,1253641.4,2023-01-15T07:56:40.544527
+,I. Poder Executivo,limite_2018,1290623.8,2023-01-15T07:56:40.544527
+,I. Poder Executivo,limite_2019,1339022.2,2023-01-15T07:56:40.544527
+,I. Poder Executivo,limite_2020,1396734.1,2023-01-15T07:56:40.544527
+,I. Poder Executivo,limite_2021,1459866.4,2023-01-15T07:56:40.544527
+,I. Poder Executivo,limite_2022,1608480.8,2023-01-15T07:56:40.544527
+,I. Poder Executivo,limite_2023,1867413.5,2023-01-15T07:56:40.544527
+,II. Poder Legislativo,base_2016,10549.7,2023-01-15T07:56:40.544527
+,II. Poder Legislativo,limite_2017,11309.3,2023-01-15T07:56:40.544527
+,II. Poder Legislativo,limite_2018,11642.9,2023-01-15T07:56:40.544527
+,II. Poder Legislativo,limite_2019,12079.5,2023-01-15T07:56:40.544527
+,II. Poder Legislativo,limite_2020,12600.1,2023-01-15T07:56:40.544527
+,II. Poder Legislativo,limite_2021,13169.7,2023-01-15T07:56:40.544527
+,II. Poder Legislativo,limite_2022,14510.3,2023-01-15T07:56:40.544527
+,II. Poder Legislativo,limite_2023,15538.1,2023-01-15T07:56:40.544527
+CD,Câmara dos Deputados,base_2016,5067.2,2023-01-15T07:56:40.544527
+CD,Câmara dos Deputados,limite_2017,5432.1,2023-01-15T07:56:40.544527
+CD,Câmara dos Deputados,limite_2018,5592.3,2023-01-15T07:56:40.544527
+CD,Câmara dos Deputados,limite_2019,5802,2023-01-15T07:56:40.544527
+CD,Câmara dos Deputados,limite_2020,6052.1,2023-01-15T07:56:40.544527
+CD,Câmara dos Deputados,limite_2021,6325.7,2023-01-15T07:56:40.544527
+CD,Câmara dos Deputados,limite_2022,6969.6,2023-01-15T07:56:40.544527
+CD,Câmara dos Deputados,limite_2023,7463.3,2023-01-15T07:56:40.544527
+SF,Senado Federal,base_2016,3729.9,2023-01-15T07:56:40.544527
+SF,Senado Federal,limite_2017,3998.5,2023-01-15T07:56:40.544527
+SF,Senado Federal,limite_2018,4116.4,2023-01-15T07:56:40.544527
+SF,Senado Federal,limite_2019,4270.8,2023-01-15T07:56:40.544527
+SF,Senado Federal,limite_2020,4454.9,2023-01-15T07:56:40.544527
+SF,Senado Federal,limite_2021,4656.2,2023-01-15T07:56:40.544527
+SF,Senado Federal,limite_2022,5130.2,2023-01-15T07:56:40.544527
+SF,Senado Federal,limite_2023,5493.6,2023-01-15T07:56:40.544527
+TCU,Tribunal de Contas da União,base_2016,1752.5,2023-01-15T07:56:40.544527
+TCU,Tribunal de Contas da União,limite_2017,1878.7,2023-01-15T07:56:40.544527
+TCU,Tribunal de Contas da União,limite_2018,1934.1,2023-01-15T07:56:40.544527
+TCU,Tribunal de Contas da União,limite_2019,2006.7,2023-01-15T07:56:40.544527
+TCU,Tribunal de Contas da União,limite_2020,2093.2,2023-01-15T07:56:40.544527
+TCU,Tribunal de Contas da União,limite_2021,2187.8,2023-01-15T07:56:40.544527
+TCU,Tribunal de Contas da União,limite_2022,2410.5,2023-01-15T07:56:40.544527
+TCU,Tribunal de Contas da União,limite_2023,2581.2,2023-01-15T07:56:40.544527
+,III. Poder Judiciário,base_2016,36314,2023-01-15T07:56:40.544527
+,III. Poder Judiciário,limite_2017,38928.6,2023-01-15T07:56:40.544527
+,III. Poder Judiciário,limite_2018,40077,2023-01-15T07:56:40.544527
+,III. Poder Judiciário,limite_2019,41579.9,2023-01-15T07:56:40.544527
+,III. Poder Judiciário,limite_2020,43372,2023-01-15T07:56:40.544527
+,III. Poder Judiciário,limite_2021,45332.4,2023-01-15T07:56:40.544527
+,III. Poder Judiciário,limite_2022,49947.2,2023-01-15T07:56:40.544527
+,III. Poder Judiciário,limite_2023,53485.1,2023-01-15T07:56:40.544527
+STF,Supremo Tribunal Federal,base_2016,542,2023-01-15T07:56:40.544527
+STF,Supremo Tribunal Federal,limite_2017,581,2023-01-15T07:56:40.544527
+STF,Supremo Tribunal Federal,limite_2018,598.1,2023-01-15T07:56:40.544527
+STF,Supremo Tribunal Federal,limite_2019,620.6,2023-01-15T07:56:40.544527
+STF,Supremo Tribunal Federal,limite_2020,647.3,2023-01-15T07:56:40.544527
+STF,Supremo Tribunal Federal,limite_2021,676.6,2023-01-15T07:56:40.544527
+STF,Supremo Tribunal Federal,limite_2022,745.4,2023-01-15T07:56:40.544527
+STF,Supremo Tribunal Federal,limite_2023,798.2,2023-01-15T07:56:40.544527
+STJ,Superior Tribunal de Justiça,base_2016,1273.9,2023-01-15T07:56:40.544527
+STJ,Superior Tribunal de Justiça,limite_2017,1365.6,2023-01-15T07:56:40.544527
+STJ,Superior Tribunal de Justiça,limite_2018,1405.9,2023-01-15T07:56:40.544527
+STJ,Superior Tribunal de Justiça,limite_2019,1458.6,2023-01-15T07:56:40.544527
+STJ,Superior Tribunal de Justiça,limite_2020,1521.5,2023-01-15T07:56:40.544527
+STJ,Superior Tribunal de Justiça,limite_2021,1590.3,2023-01-15T07:56:40.544527
+STJ,Superior Tribunal de Justiça,limite_2022,1752.1,2023-01-15T07:56:40.544527
+STJ,Superior Tribunal de Justiça,limite_2023,1876.3,2023-01-15T07:56:40.544527
+JF,Justiça Federal,base_2016,9397.9,2023-01-15T07:56:40.544527
+JF,Justiça Federal,limite_2017,10074.5,2023-01-15T07:56:40.544527
+JF,Justiça Federal,limite_2018,10371.7,2023-01-15T07:56:40.544527
+JF,Justiça Federal,limite_2019,10760.6,2023-01-15T07:56:40.544527
+JF,Justiça Federal,limite_2020,11224.4,2023-01-15T07:56:40.544527
+JF,Justiça Federal,limite_2021,11731.8,2023-01-15T07:56:40.544527
+JF,Justiça Federal,limite_2022,12926.1,2023-01-15T07:56:40.544527
+JF,Justiça Federal,limite_2023,13841.6,2023-01-15T07:56:40.544527
+JM,Justiça Militar da União,base_2016,457.9,2023-01-15T07:56:40.544527
+JM,Justiça Militar da União,limite_2017,490.9,2023-01-15T07:56:40.544527
+JM,Justiça Militar da União,limite_2018,505.3,2023-01-15T07:56:40.544527
+JM,Justiça Militar da União,limite_2019,524.3,2023-01-15T07:56:40.544527
+JM,Justiça Militar da União,limite_2020,546.9,2023-01-15T07:56:40.544527
+JM,Justiça Militar da União,limite_2021,571.6,2023-01-15T07:56:40.544527
+JM,Justiça Militar da União,limite_2022,629.8,2023-01-15T07:56:40.544527
+JM,Justiça Militar da União,limite_2023,674.4,2023-01-15T07:56:40.544527
+JE,Justiça Eleitoral,base_2016,6192.7,2023-01-15T07:56:40.544527
+JE,Justiça Eleitoral,limite_2017,6638.6,2023-01-15T07:56:40.544527
+JE,Justiça Eleitoral,limite_2018,6834.4,2023-01-15T07:56:40.544527
+JE,Justiça Eleitoral,limite_2019,7090.7,2023-01-15T07:56:40.544527
+JE,Justiça Eleitoral,limite_2020,7396.3,2023-01-15T07:56:40.544527
+JE,Justiça Eleitoral,limite_2021,7730.6,2023-01-15T07:56:40.544527
+JE,Justiça Eleitoral,limite_2022,8517.6,2023-01-15T07:56:40.544527
+JE,Justiça Eleitoral,limite_2023,9121,2023-01-15T07:56:40.544527
+JT,Justiça do Trabalho,base_2016,16020.8,2023-01-15T07:56:40.544527
+JT,Justiça do Trabalho,limite_2017,17174.3,2023-01-15T07:56:40.544527
+JT,Justiça do Trabalho,limite_2018,17681,2023-01-15T07:56:40.544527
+JT,Justiça do Trabalho,limite_2019,18344,2023-01-15T07:56:40.544527
+JT,Justiça do Trabalho,limite_2020,19134.6,2023-01-15T07:56:40.544527
+JT,Justiça do Trabalho,limite_2021,19999.5,2023-01-15T07:56:40.544527
+JT,Justiça do Trabalho,limite_2022,22035.5,2023-01-15T07:56:40.544527
+JT,Justiça do Trabalho,limite_2023,23596.3,2023-01-15T07:56:40.544527
+JDFT,Justiça do Distrito Federal e dos Territórios,base_2016,2263.3,2023-01-15T07:56:40.544527
+JDFT,Justiça do Distrito Federal e dos Territórios,limite_2017,2426.3,2023-01-15T07:56:40.544527
+JDFT,Justiça do Distrito Federal e dos Territórios,limite_2018,2497.8,2023-01-15T07:56:40.544527
+JDFT,Justiça do Distrito Federal e dos Territórios,limite_2019,2591.5,2023-01-15T07:56:40.544527
+JDFT,Justiça do Distrito Federal e dos Territórios,limite_2020,2703.2,2023-01-15T07:56:40.544527
+JDFT,Justiça do Distrito Federal e dos Territórios,limite_2021,2825.4,2023-01-15T07:56:40.544527
+JDFT,Justiça do Distrito Federal e dos Territórios,limite_2022,3113,2023-01-15T07:56:40.544527
+JDFT,Justiça do Distrito Federal e dos Territórios,limite_2023,3333.5,2023-01-15T07:56:40.544527
+CNJ,Conselho Nacional de Justiça,base_2016,165.5,2023-01-15T07:56:40.544527
+CNJ,Conselho Nacional de Justiça,limite_2017,177.4,2023-01-15T07:56:40.544527
+CNJ,Conselho Nacional de Justiça,limite_2018,182.7,2023-01-15T07:56:40.544527
+CNJ,Conselho Nacional de Justiça,limite_2019,189.5,2023-01-15T07:56:40.544527
+CNJ,Conselho Nacional de Justiça,limite_2020,197.7,2023-01-15T07:56:40.544527
+CNJ,Conselho Nacional de Justiça,limite_2021,206.6,2023-01-15T07:56:40.544527
+CNJ,Conselho Nacional de Justiça,limite_2022,227.7,2023-01-15T07:56:40.544527
+CNJ,Conselho Nacional de Justiça,limite_2023,243.8,2023-01-15T07:56:40.544527
+,IV. Defensoria Pública da União,base_2016,459.7,2023-01-15T07:56:40.544527
+,IV. Defensoria Pública da União,limite_2017,492.8,2023-01-15T07:56:40.544527
+,IV. Defensoria Pública da União,limite_2018,507.4,2023-01-15T07:56:40.544527
+,IV. Defensoria Pública da União,limite_2019,526.4,2023-01-15T07:56:40.544527
+,IV. Defensoria Pública da União,limite_2020,549.1,2023-01-15T07:56:40.544527
+,IV. Defensoria Pública da União,limite_2021,573.9,2023-01-15T07:56:40.544527
+,IV. Defensoria Pública da União,limite_2022,632.3,2023-01-15T07:56:40.544527
+,IV. Defensoria Pública da União,limite_2023,677.1,2023-01-15T07:56:40.544527
+,V. Ministério Público da União,base_2016,5544.3,2023-01-15T07:56:40.544527
+,V. Ministério Público da União,limite_2017,5943.5,2023-01-15T07:56:40.544527
+,V. Ministério Público da União,limite_2018,6118.8,2023-01-15T07:56:40.544527
+,V. Ministério Público da União,limite_2019,6348.3,2023-01-15T07:56:40.544527
+,V. Ministério Público da União,limite_2020,6621.9,2023-01-15T07:56:40.544527
+,V. Ministério Público da União,limite_2021,6921.2,2023-01-15T07:56:40.544527
+,V. Ministério Público da União,limite_2022,7625.8,2023-01-15T07:56:40.544527
+,V. Ministério Público da União,limite_2023,8165.9,2023-01-15T07:56:40.544527
+MPU,Ministério Público da União,base_2016,5474,2023-01-15T07:56:40.544527
+MPU,Ministério Público da União,limite_2017,5868.1,2023-01-15T07:56:40.544527
+MPU,Ministério Público da União,limite_2018,6041.2,2023-01-15T07:56:40.544527
+MPU,Ministério Público da União,limite_2019,6267.8,2023-01-15T07:56:40.544527
+MPU,Ministério Público da União,limite_2020,6537.9,2023-01-15T07:56:40.544527
+MPU,Ministério Público da União,limite_2021,6833.4,2023-01-15T07:56:40.544527
+MPU,Ministério Público da União,limite_2022,7529.1,2023-01-15T07:56:40.544527
+MPU,Ministério Público da União,limite_2023,8062.4,2023-01-15T07:56:40.544527
+CNMP,Conselho Nacional do Ministério Público,base_2016,70.3,2023-01-15T07:56:40.544527
+CNMP,Conselho Nacional do Ministério Público,limite_2017,75.4,2023-01-15T07:56:40.544527
+CNMP,Conselho Nacional do Ministério Público,limite_2018,77.6,2023-01-15T07:56:40.544527
+CNMP,Conselho Nacional do Ministério Público,limite_2019,80.5,2023-01-15T07:56:40.544527
+CNMP,Conselho Nacional do Ministério Público,limite_2020,84,2023-01-15T07:56:40.544527
+CNMP,Conselho Nacional do Ministério Público,limite_2021,87.8,2023-01-15T07:56:40.544527
+CNMP,Conselho Nacional do Ministério Público,limite_2022,96.7,2023-01-15T07:56:40.544527
+CNMP,Conselho Nacional do Ministério Público,limite_2023,103.6,2023-01-15T07:56:40.544527
+VI. TOTAL,"1.222.309,3",base_2016,1310315.6,2023-01-15T07:56:40.544527
+VI. TOTAL,"1.222.309,3",limite_2017,1348969.9,2023-01-15T07:56:40.544527
+VI. TOTAL,"1.222.309,3",limite_2018,1399556.3,2023-01-15T07:56:40.544527
+VI. TOTAL,"1.222.309,3",limite_2019,1459877.1,2023-01-15T07:56:40.544527
+VI. TOTAL,"1.222.309,3",limite_2020,1525863.6,2023-01-15T07:56:40.544527
+VI. TOTAL,"1.222.309,3",limite_2021,1681196.5,2023-01-15T07:56:40.544527
+VI. TOTAL,"1.222.309,3",limite_2022,1945279.8,2023-01-15T07:56:40.544527
+VI. TOTAL,"1.222.309,3",limite_2023,NA,2023-01-15T07:56:40.544527
